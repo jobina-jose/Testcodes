@@ -1,0 +1,84 @@
+.container1{
+    background-image: url(blue.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 900px;
+     margin-left: 177px;
+    height:664px;
+}
+.container{
+    height: 453px;
+    width: 438px;
+    background-color: rgba(255, 255, 255, 0);
+    margin: auto;
+    padding-top: 25px;
+    position: relative;
+    top: 20px;
+    border: 1px solid;
+}
+.h{
+    color: aliceblue;
+    margin-left: 200;
+}
+.mail{
+    height: 50px;
+    width: 316px;
+    margin-left: 54px;
+    margin-top: 30px;
+    background-color: rgba(152, 159, 157, 0);
+    color: aliceblue;
+    border-radius: 30px;
+}
+.mail::placeholder{
+    color: white;
+}
+.password{
+    height: 50px;
+    width: 316px;
+    margin-left: 54px;
+    margin-top: 30px;
+    background-color: rgba(152, 159, 157, 0);
+    color: aliceblue;
+    border-radius: 30px;
+    
+
+}
+.password::placeholder{
+    color: white;
+}
+.p{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 10px;
+    box-sizing: border-box;
+}
+.forgot-password{
+margin-left: 20px; /* Add space between remember me and forgot password */
+}
+.checkbox-container {
+    display: flex;
+    align-items: center;
+}
+.checkbox-container input[type="checkbox"] {
+    margin-right: 5px; /* Space between checkbox and label */
+}
+.login{
+    height: 50px;
+    width: 316px;
+    margin-top: 30px;
+    margin-left: 54px;
+    border-radius: 30px;
+    text-align: center;
+}
+.a{
+    margin-left: 100px;
+    color: white;
+
+}
+
+
+

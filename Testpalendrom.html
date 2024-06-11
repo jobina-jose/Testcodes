@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>test num</title>
+        <script>
+            var a=252, sum=0;
+            var b=a;
+            while(a != 0){
+                var rem=a%10;
+                sum = (sum*10)+rem;
+                a = Math.floor(a/10)
+            }
+            if(b==sum){
+              console.log("palidrome");
+            }
+            else{
+                console.log("not palidrome");
+            }
+        </script>
+    </head>
+</html>

@@ -1,0 +1,50 @@
+body{
+    background-color: blueviolet;
+}
+.container{
+   height: 450px;
+   width: 400px;
+   margin-left: 550px;
+   margin-top: 100px;
+   background-color: aliceblue;
+
+}
+.abc{
+    text-align: center;
+}
+.email{
+    height: 30px;
+    width: 300px;
+    margin-left: 29px;
+    margin-top: 60;
+
+}
+.password{
+    height: 30px;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.h{
+    padding-left: 240px;
+    font-size: small;
+
+}
+.sign{
+    height: 30px;
+    width: 300px;
+    margin-top: -2px;
+    margin-left: 30px;
+    background-color: blue;
+    text-align: center;
+
+}
+.log{
+    height: 30px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.p{
+    padding-left: 120px;
+}

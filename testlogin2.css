@@ -1,0 +1,25 @@
+body{
+background-image: url("orange.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.container{
+   display: flex;
+   flex-direction: column;
+   height: 200px;
+   width: 600px;
+   border: 1px solid rgb(15, 14, 14);
+   box-shadow: inset color(rgb(225, 221, 221));
+   margin-left: 500px;
+   margin-top: 300;
+   
+   }
+   .h{
+      color: aliceblue;
+      margin-top: 100; 
+        
+   }
+   .code{
+      color: aliceblue;
+      margin-top: 200;
+   }

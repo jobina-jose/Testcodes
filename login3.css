@@ -1,0 +1,54 @@
+.container1{
+    background-image: url(red3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 990px;
+    margin-top: 200px;
+    margin-left: 117px;
+    height: 664px;
+}
+.container{
+    background-color: white;
+    height: 411px;
+    width: 274px;
+    margin-top: 193px;
+    margin-left: 267px;
+}
+.h{
+    font-style: italic;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.a{
+    font-size: small;
+}
+.user{
+    height: 30px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 32px;
+}
+.password{
+    height: 30px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 32px;
+}
+.p{
+    font-size: small;
+    margin-left: 150px;
+}
+.login{
+    height: 30px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 20px;
+    background-color:red;
+    text-align: center;
+}
+.Google{
+    height: 30px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 20px;
+}

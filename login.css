@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(20, 167, 62);
+    
+}
+.container{
+    height: 400px;
+    width: 471px;
+    margin-left: 450px;
+    margin-top: 180px;
+    background-color: white;
+    
+}
+.user{
+    border:none;
+    background-color: rgb(216, 210, 221);
+    height: 57px;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 82px;
+    font-size: 20px;
+    margin-top: 60px;
+}
+.word{
+    border:none;
+    background-color: rgb(216, 210, 221);
+    height: 57px;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 82px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.sub{
+    border-color: aliceblue;
+    background-color: rgb(20, 167, 62);
+    color: aliceblue;
+    height: 57px;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 82px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.p{
+    padding-left: 120px;
+}
